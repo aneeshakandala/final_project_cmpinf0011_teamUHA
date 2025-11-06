@@ -4,7 +4,7 @@
 
 **Team members and their email addresses:**
 * Aneesha Kandala - ANK739@pitt.edu
-* 
+* Hallie Cadet - HAC270@pitt.edu
 *
 
 **Description and links to the datasets used**
