@@ -1,6 +1,7 @@
 # final_project_cmpinf0011_teamUHA
 
 **Team name: TEAM UHA** 
+**Group Number 13**
 
 **Team members and their email addresses:**
 * Aneesha Kandala - ANK739@pitt.edu
@@ -9,10 +10,10 @@
 
 **Description and links to the datasets used**
 
-1. Dataset 1 --> [Walkability, sidewalk-street ratio_Adrian Puentes](https://data.wprdc.org/dataset/sidewalk-to-street-walkability-ratio)
-2. Dataset 2 --> [link to dataset2](https://data.wprdc.org/dataset/allegheny-county-municipal-parks)
-3. Dataset 3 --> [link to dataset3](https://www.pitt.edu)
+1. Dataset 1 --> [Walkability(Adrian Puentes)](https://data.wprdc.org/dataset/sidewalk-to-street-walkability-ratio)
+2. Dataset 2 --> [Municipal Parks (Hallie Cadet)](https://data.wprdc.org/dataset/allegheny-county-municipal-parks)
+3. Dataset 3 --> [Crime Rates (Aneesha Kandala)](https://data.wprdc.org/dataset/uniform-crime-reporting-data)
 
 **A one sentence overview of your repository, meant for someone who is not familiar with the project:**
 
-(INSERT OVERVIEW HERE)
+This is a project analying three different sub-metrics/datasets (walkability, parks, and crime statistics) to determine what is the "best" neighborhood in the Pittsburgh area.
