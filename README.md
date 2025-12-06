@@ -11,7 +11,7 @@
 **Description and links to the datasets used**
 
 1. Dataset 1 --> [Walkability(Adrian Puentes)](https://data.wprdc.org/dataset/sidewalk-to-street-walkability-ratio)
-2. Dataset 2 --> [Municipal Parks (Hallie Cadet)](https://data.wprdc.org/dataset/allegheny-county-municipal-parks)
+2. Dataset 2 --> [Playgrounds (Hallie Cadet)](https://data.wprdc.org/datastore/dump/47350364-44a8-4d15-b6e0-5f79ddff9367)
 3. Dataset 3 --> [Crime Rates (Aneesha Kandala)](https://data.wprdc.org/dataset/uniform-crime-reporting-data)
 
 **One Sentence Summary**
